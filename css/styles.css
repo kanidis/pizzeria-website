@@ -559,7 +559,7 @@ span {
   left: 50%;
   bottom: 0;
   font-size: 2rem;
-  color: var(--clr-secondary);
+  color: var(--clr-white);
   background: var(--clr-primary);
   padding: 0.25rem 0.5rem;
   border-radius: 50%;
