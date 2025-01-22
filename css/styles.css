@@ -540,7 +540,7 @@ span {
   margin: 0 auto;
 }
 .service-info h4 {
-  color: var(--clr-primary);
+  color: var(--clr-white);
 }
 
 @media screen and (min-width: 768px) {
