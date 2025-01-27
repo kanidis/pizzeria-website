@@ -5,12 +5,12 @@
 
 /* css vars */
 :root {
-  --clr-primary: #E7735A;
-  --clr-primary-light: #F6C453;
+  --clr-primary: #ce16a6;
+  --clr-primary-light: #000000;
   --clr-primary-3: #B63D2E;
   --clr-secondary: #D8A156;
   --clr-grey-1: #272829;
-  --clr-grey-2: #6c757d;
+  --clr-grey-2: #b9e222;
   --clr-grey-3: #adb5bd;
   --clr-black: #222;
   --clr-white: #fff;
